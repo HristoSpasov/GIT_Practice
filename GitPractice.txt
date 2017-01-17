@@ -1,1 +1,2 @@
 My first steps in using GitHub.
+Edit the file after switching back to master branch.
